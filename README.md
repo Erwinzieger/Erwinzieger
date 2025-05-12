@@ -10,5 +10,4 @@
 🎮 Fun fact: I love gaming – especially Counter-Strike!
 
 📫 **Contact me:**
-- [LinkedIn](https://www.linkedin.com/in/erwinzieger)
-- [Instagram](https://www.instagram.com/erwinzieger)
+e-zieger@hotmail.com
