@@ -1,4 +1,4 @@
-👋 Hi, I’m Erwin Zieger from Argentina|
+👋 Hi, I’m Erwin Zieger from Argentina |
 💻 Aspiring Full Stack Developer | 🎓 Student at UNQ | 🌐 Lifelong Learner
 
 👀 Interests: Full Stack Development, Building Mobile Apps, and Cybersecurity
