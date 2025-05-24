@@ -1,6 +1,8 @@
 👋 Hi, I’m Erwin Zieger from Argentina |
 💻 Aspiring Full Stack Developer | 🎓 Student at UNQ | 🌐 Lifelong Learner
 
+📗 Programming languages: Python | HTML | CSS | JavaScript
+
 👀 Interests: Full Stack Development and Cybersecurity.
 
 🌱 Currently learning: Programming at Universidad Nacional de Quilmes + Online Courses.
