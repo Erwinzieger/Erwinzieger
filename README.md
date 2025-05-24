@@ -7,7 +7,5 @@
 
 💬 Languages: Spanish (native), English and German.
 
-🎮 Fun fact: I love gaming – especially Counter-Strike!
-
 📫 **Contact me:**
 e-zieger@hotmail.com
