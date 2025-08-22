@@ -9,5 +9,3 @@
 
 💬 Languages: Spanish (native), English and German.
 
-📫 **Contact me:**
-Instagram: Erwinzieger
