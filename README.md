@@ -1,5 +1,5 @@
 👋 Hi, I’m Erwin Zieger from Argentina |
-💻 Aspiring Full Stack Developer | 🎓 Student at UTN | 🌐 Lifelong Learner
+💻 Aspiring Software Developer | 🎓 Student at UTN | 🌐 Lifelong Learner
 
 📗 Programming languages: Python | HTML | CSS | JavaScript
 
