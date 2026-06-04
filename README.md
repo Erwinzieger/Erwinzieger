@@ -3,7 +3,7 @@
 
 📗 Programming languages: Python | HTML | CSS | JavaScript
 
-👀 Interests: Full Stack Development and Mobile Development.
+👀 Interests: Full Stack Mobile Development.
 
 🌱 Currently learning: Learning in Universidad Tecnológica Nacional + Online Courses.
 
